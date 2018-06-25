@@ -1,6 +1,6 @@
 const dicionario = require('./dicionario.json');
 
-let palavra = process.argv[2];
+let palavra = process.argv;
 let traducao = dicionario[palavra];
 
 if(palavra == 'listar-tudo'){

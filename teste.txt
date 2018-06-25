@@ -1,1 +1,1 @@
-Estou gravando um arquivo
+klC:\Program Files\nodejs\node.exe,C:\Users\7488\Desktop\304-intro-nodejs\gravar.js,kC:\Users\7488\Desktop\304-intro-nodejs\gravar.js
